@@ -1,0 +1,1 @@
+A calculator application built using java which consists of many modes such as basic mode, matrix mode (solves operations on matrices), equation mode (solves quadratic equation), converter mode, financial mode, etc.
